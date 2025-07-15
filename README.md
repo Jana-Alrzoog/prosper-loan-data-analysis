@@ -1,10 +1,11 @@
 
+<h1 align="center">📊 Loan Data Analysis</h1>
 
-# 📊 Loan Data Analysis
+<p align="center">Exploratory and Explanatory Data Visualization Project</p>
 
-Exploratory and Explanatory Data Visualization Project
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8dbcbc7f-5356-4904-a586-a4b7c50cc25e" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8dbcbc7f-5356-4904-a586-a4b7c50cc25e" width="400"/>
+</p>
 
 ## 📁 Project Overview
 
